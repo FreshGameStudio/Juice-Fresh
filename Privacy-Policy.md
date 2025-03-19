@@ -51,7 +51,7 @@ We may share your information with:
 
 We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure. These measures include encryption, firewalls, and secure server facilities. However, please be aware that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
-## 6. Children’s Privacy
+## 6. Childrenâ€™s Privacy
 
 Our game is intended for users aged 18 and over. We do not knowingly collect personal information from individuals under the age of 18. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately, and we will take steps to delete such information.
 
